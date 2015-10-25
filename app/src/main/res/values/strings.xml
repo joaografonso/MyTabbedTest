@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Tabity Tabs</string>
+
+
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="calc">Calculate</string>
+
+    <string name="Kilograms">Kilograms</string>
+    <string name="Centimeters">Centimeters</string>
+
+    <string-array name="weight_units">
+        <item>Kilograms</item>
+        <item>Pounds</item>
+    </string-array>
+
+    <string-array name="height_units">
+        <item>Centimeters</item>
+        <item>Feet</item>
+    </string-array>
+
+    <string-array name="sex_units">
+        <item>Masculine</item>
+        <item>Feminine</item>
+    </string-array>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pager_tab_strip">PagerTabStrip</string>
+    <string name="title_activity_tab_layout">TabLayout</string>
+</resources>
